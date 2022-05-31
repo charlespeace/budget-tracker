@@ -7,9 +7,11 @@ Giving users a fast and easy way to track their money is important, but allowing
 * Javascript
 * MongoDB
 * IndexedDB
+* HTML
+* CSS
 
 ## Link to Application
-
+https://young-tundra-68545.herokuapp.com/
 
 ## Contribution
 Application code provided, offline functionality added by Charles Peace
